@@ -1,0 +1,11 @@
+{
+    "name": "hehe",
+    "short_name": "hehe",
+    "start_url": ".",
+    "background_color": "#F8C8DC",
+    "theme_color": "#FFC0CB",
+    "display": "standalone",
+    "icons": [
+        
+    ]
+}
