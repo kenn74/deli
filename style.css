@@ -5,7 +5,7 @@ body {
 
 h1 {
     font-size: 60px;
-    transition: cubic-bezier(0.175, 0.885, 0.32, 1.555) 2s;
+    transition: 2.5s;
 }
 
 .img{
